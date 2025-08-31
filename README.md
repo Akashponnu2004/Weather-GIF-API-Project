@@ -36,11 +36,6 @@ git clone https://github.com/Akashponnu2004/Weather-GIF-API-Project.git
 cd Weather-GIF-API-Project
 ```
 
-### Open the Project  
-Simply open the `index.html` file in your web browser.  
-
----
-
 ## 🔧 Usage  
 
 1. **Open the application:** [Weather & GIF API Project](https://akashponnu2004.github.io/Weather-GIF-API-Project/)  
